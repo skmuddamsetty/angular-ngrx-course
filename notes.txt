@@ -2,5 +2,8 @@
 npm Start
 2) Start Node Server
 npm run server
-1) Command to create feature store in a specific module
+3) Command to create feature store in a specific module
 ng generate store auth/Auth --module auth.module.ts
+
+Claritifications
+What is noop in subscribe method?
